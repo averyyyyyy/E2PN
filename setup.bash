@@ -19,3 +19,4 @@ cd ..
 gdown 1xRoYjz2KCwkyIPf21E-WKIZkjLYabPgJ  
 curl https://cvg.cit.tum.de/rgbd/dataset/freiburg1/rgbd_dataset_freiburg1_xyz.tgz -o xyz_fr1
 tar -xzvf xyz_fr1
+gdown gdown 14ZGJZHuQLhg87En4C5po6bgTFn4tns4R
