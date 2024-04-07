@@ -15,4 +15,7 @@ cd vgtk
 python setup.py build_ext --inplace
 python -m pip install gdown
 #Download Even Aligned Modelnet
+cd ..
 gdown 1xRoYjz2KCwkyIPf21E-WKIZkjLYabPgJ  
+curl https://cvg.cit.tum.de/rgbd/dataset/freiburg1/rgbd_dataset_freiburg1_xyz.tgz -o xyz_fr1
+tar -xzvf xyz_fr1

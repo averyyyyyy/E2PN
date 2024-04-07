@@ -1,3 +1,6 @@
+rgbd_dataset_*
+xyz_*
+
 trained_models/
 
 *.pth
