@@ -10,7 +10,7 @@ sudo apt-get install libcairo2
 python3.8 -m venv venv
 source venv/bin/activate 
 python -m pip install -r requirements.txt
-python -m ipykernel install --name python3.8
+python -m ipykernel install --name python3.8 --user
 cd vgtk
 python setup.py build_ext --inplace
 python -m pip install gdown
